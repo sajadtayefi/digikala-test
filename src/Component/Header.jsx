@@ -17,7 +17,7 @@ function Header() {
                     text={"ورود | ثبت‌نام"}
                     icon={<GiExitDoor />}
                 />
-                <TfiShoppingCart size={} className="" /> a
+                <TfiShoppingCart  className="" /> a
 
             </div>
 
